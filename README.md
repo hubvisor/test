@@ -11,7 +11,7 @@ Ta mission sera :
 - 1 - de créer un serveur node contenant deux endpoints:
   - un pour les utilisateurs
   - un pour la liste des commits
-  - **technos attendues:** express.js
+  - **technos attendues:** express.js, ...
 - 2 - de créer une webapp vue.js affichant la liste des commits ainsi que leurs messages, qui sera requetée depuis ton serveur
   - Lorsqu'un commit est sélectionné, tu devra charger ses committeurs et auteurs afin de les afficher
-  - **technos attendues:** vuejs + vuex, flexbox
+  - **technos attendues:** vuejs, flexbox, ...
